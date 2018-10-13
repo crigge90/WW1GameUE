@@ -73,3 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+WW1Game/Intermediate/CachedAssetRegistry.bin
+WW1Game/Saved/
+WW1Game/Intermediate/
